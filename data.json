@@ -1,0 +1,16 @@
+{
+  "abbreviations": [
+    {
+      "acronym": "AAC",
+      "definition": "Application Authentication Cryptogram"
+    },
+    {
+      "acronym": "AC",
+      "definition": "Application Cryptogram"
+    },
+    {
+      "acronym": "AFL",
+      "definition": "Application File Locator"
+    }
+  ]
+}
